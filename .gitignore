@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Downloads folder (your videos)
+downloads/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
